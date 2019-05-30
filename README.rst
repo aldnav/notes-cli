@@ -6,8 +6,8 @@ Notes CLI
 .. image:: https://img.shields.io/pypi/v/notes_cli.svg
         :target: https://pypi.python.org/pypi/notes_cli
 
-.. image:: https://img.shields.io/travis/aldnav/notes_cli.svg
-        :target: https://travis-ci.org/aldnav/notes_cli
+.. image:: https://img.shields.io/travis/aldnav/notes-cli.svg
+        :target: https://travis-ci.org/aldnav/notes-cli
 
 .. image:: https://readthedocs.org/projects/notes-cli/badge/?version=latest
         :target: https://notes-cli.readthedocs.io/en/latest/?badge=latest

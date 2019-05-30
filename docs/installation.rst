@@ -32,13 +32,13 @@ You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/aldnav/notes_cli
+    $ git clone git://github.com/aldnav/notes-cli
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl  -OL https://github.com/aldnav/notes_cli/tarball/master
+    $ curl  -OL https://github.com/aldnav/notes-cli/tarball/master
 
 Once you have a copy of the source, you can install it with:
 
@@ -47,5 +47,5 @@ Once you have a copy of the source, you can install it with:
     $ python setup.py install
 
 
-.. _Github repo: https://github.com/aldnav/notes_cli
-.. _tarball: https://github.com/aldnav/notes_cli/tarball/master
+.. _Github repo: https://github.com/aldnav/notes-cli
+.. _tarball: https://github.com/aldnav/notes-cli/tarball/master
